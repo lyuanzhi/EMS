@@ -18,4 +18,15 @@ I originally planned to migrate this project over this github account directly, 
 2. MySQL 8.0.18
 
 ## Demo Screenshots
-
+![](imgs/employee_search.png)
+![](imgs/employee_info_modification.png)
+![](imgs/insurance_info.png)
+![](imgs/statistical_report.png)
+![](imgs/recruit.png)
+![](imgs/personnel_redeployment.png)
+![](imgs/retire.png)
+![](imgs/daily_attendance_sheet.png)
+![](imgs/monthly_schedules.png)
+![](imgs/awaiting_approval.png)
+![](imgs/purchased.png)
+![](imgs/rejected.png)
